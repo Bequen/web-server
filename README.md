@@ -1,3 +1,3 @@
 # Web server
 
-Pocita fibonaciho cisla.
+Pocita fibonaciho cisla a dalsi veci.
